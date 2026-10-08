@@ -1,3 +1,35 @@
+<!-- repository-overview:start -->
+## 📌 저장소 한눈에 보기
+
+**웹사이트를 Next.js 프로젝트로 재구성하는 작업 템플릿**
+
+| 구분 | 내용 |
+|---|---|
+| 분류 | 웹 분석·자동화 |
+| 공개 범위 · 2026-10-09 확인 | 공개 |
+| 저장소 형태 | 외부 프로젝트 포크 |
+| 기본 브랜치 | `master` |
+| 주요 구성 | Next.js·React·Tailwind·shadcn/ui 기본 프로젝트·스킬 |
+
+### 주요 기능·내용
+
+- 화면·상호작용 조사와 디자인·이미지 추출
+- 컴포넌트 명세·구역별 구현·통합
+- 원본과 화면 비교 및 여러 에이전트용 규칙
+
+원본 프로젝트: [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
+
+### 바로 관리하기
+
+**[📝 설명·메모 수정](https://github.com/calce2/ai-website-cloner-template/edit/master/README.md) · [⚙️ 설정](https://github.com/calce2/ai-website-cloner-template/settings) · [📦 보관 / 🗑️ 삭제 설정](https://github.com/calce2/ai-website-cloner-template/settings#danger-zone)**
+
+보관·삭제 링크는 해당 저장소의 Settings → Danger Zone으로 이동합니다. 실행은 그 화면에서 선택하고 확인합니다.
+
+<sub>2026-10-09 작성 · 코드·문서를 기준으로 한 소개입니다. 공개 범위와 기능이 바뀌면 이 기록도 갱신하세요.</sub>
+<!-- repository-overview:end -->
+
+---
+
 # AI Website Cloner Template
 
 <a href="https://github.com/JCodesMore/ai-website-cloner-template/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT License" /></a> <a href="https://github.com/JCodesMore/ai-website-cloner-template/stargazers"><img src="https://img.shields.io/github/stars/JCodesMore/ai-website-cloner-template?style=flat" alt="Stars" /></a> <a href="https://discord.gg/hrTSX5yTpB"><img src="https://img.shields.io/discord/1400896964597383279?label=discord" alt="Discord" /></a>
